@@ -1,5 +1,5 @@
-; %_N_AXLEPART1_MPF
-; this is axle support part 1
+; %_N_AXLEPART_MPF
+; this is axle support part
 N10 G90 G94 G18
 N11 G71
 N12 LIMS=S6000
